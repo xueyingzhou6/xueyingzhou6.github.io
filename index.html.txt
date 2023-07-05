@@ -1,0 +1,33 @@
+
+<<!DOCTYPE html>
+<html>
+<head>
+  <title>My Profile Page</title>
+</head>
+<body>
+  <header>
+    <h1>Hello, I'm [Zhou Xueying]</h1>
+  </header>
+  
+ <img src="profile-picture.jpg" alt="Profile Picture" width="200" height="200">
+  
+  <section>
+    <h2>About Me</h2>
+    <p>I'm passionate about coding and love to explore new technologies. Currently, I'm honing my skills and enjoying the world of programming.</p>
+  </section>
+  
+  <section>
+    <h2>My Website</h2>
+    <p>Check out my website and blog at <a href="https://www.myprofilezhou.com">www.myprofilezhou.com</a>.</p>
+  </section>
+  
+  <section>
+    <h2>Hobbies</h2>
+    <p>I have a few hobbies that I enjoy in my free time. One of my favorites is photography. I love capturing moments and expressing my creativity through the lens. Additionally, I enjoy playing musical instruments and exploring the great outdoors.</p>
+  </section>
+  
+  <section>
+    <h2>Projects</h2>
+    <p>I have worked on various projects, ranging from web development to mobile app development. One of my recent projects involved creating a responsive website for a local business, which was a great learning experience. I'm always excited to take on new projects and challenges.</p>
+  </section>
+
